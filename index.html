@@ -8,7 +8,15 @@
     <title>search photo</title>
 </head>
 <body>
-    
+    <main>
+        <form id="form">
+            <label for="search">Поиск фотографии</label>
+            <input type="search" id="search" value="" autofocus>
+            <input type="submit" value="Найти">
+        </form>
+        <div id="list"></div>
+        <button id="next-page" class="hidden">Загрузить еще...</button>
+    </main>
 
     <script src="dist/main.js"></script>
 </body>
