@@ -9,6 +9,6 @@
   "author": "karachevtsevuu",
   "license": "ISC",
   "dependencies": {
-    "unsplash-js": "^6.0.0"
+    "unsplash-js": "^7.0.15"
   }
 }
